@@ -1,0 +1,4 @@
+python-alabaster source: no-debian-changes
+python-alabaster source: source-contains-prebuilt-windows-binary
+python-alabaster source: source-is-missing
+python-alabaster source: source-package-encodes-python-version
